@@ -6,8 +6,8 @@
 
 		shellAliases = {
 			"wow" = "echo 'WOW'";
-			"rebuils-nix" = "sudo nixos-rebuild switch --flake /home/user/nix";
-			"rebuils-home" = "home-manager switch --flake /home/user/nix";
+			"rebuild-nix" = "sudo nixos-rebuild switch --flake /home/user/nix";
+			"rebuild-home" = "home-manager switch --flake /home/user/nix";
 		};
 	};
 }

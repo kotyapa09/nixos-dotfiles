@@ -7,5 +7,7 @@
 		tree
 		home-manager
 		git
+		xwaybar
+		hyprland
 	];
 }
